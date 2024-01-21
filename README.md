@@ -11,6 +11,8 @@ Requires Pygame to run (I used [Pygame-CE](https://github.com/pygame-community/p
 
 <code>pip install pygame-ce</code>
 
+## Playable on the web at https://devboiagru.itch.io/flabby-birb
+Built with pygbag
 ## Credits
 
 Music: "8 Bit Onward" By HeatleyBros:
