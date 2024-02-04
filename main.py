@@ -59,7 +59,7 @@ def SpawnPipe() ->None:
             PIPE_IMG,
             -2,
             PLAYER_BIRB,
-            100,200,
+            100,150,
             window,
         )
     )

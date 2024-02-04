@@ -22,7 +22,7 @@ class Birb:
                 WINDOW :pygame.surface,
                 ALIGN_ROTATION :bool = True,
                 JUMP_COOLDOWN :float = 0.5,
-                JUMP_STRENGTH :float = 5,
+                JUMP_STRENGTH :float = 3,
                 ) -> None:
         
         self.display_x, self.display_y = WINDOW.get_size()
